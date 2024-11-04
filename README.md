@@ -7,7 +7,7 @@
 ### Etch A Sketch
 Graphics Project with keypress drawing controls with the ability to save images.
 ![Running App]()
-[Source Code]()
+[Source Code](https://github.com/keenanlai/programming-portfolio-2a/blob/main/src/Etchaskectch/Etchaskectch.pde)
 
 ## Term 2
 ### Calculator
