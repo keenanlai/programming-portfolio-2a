@@ -1,8 +1,16 @@
 # Keenan Lai's Programming Portfolio 2024-25
+* Projected Graduation 2028
+* Intrests in Fishing, Hunting, Camping
+* Taking Graphics 1 at this time
 
 ## Term 1
-## Etch A Sketch
-hiibhi
+### Etch A Sketch
+Graphics Project with keypres drawing controls with the ability to save images.
+![Running App]()
+[Source Code]()
+
 ## Term 2
-## Calculator
-bihhb ikh ik
+### Calculator
+Object oriented graphical calculatorr with custom buttons and UI.
+![Running App]()
+[Souce Code]()
